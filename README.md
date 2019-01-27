@@ -1,5 +1,5 @@
-# l-system-renderer-processing
-L-System parsing and rendering system for Processing
+# L-system renderer Processing
+L-System parsing and rendering in Processing
 
 ![](examples/hilbert_large_dynamic_thick_loop_color.gif)
 
