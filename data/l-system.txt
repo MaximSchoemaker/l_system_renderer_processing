@@ -1,0 +1,46 @@
+F -> F-F+F+FFF-F-F+F
+F
+F
+90
+
+X -> X+YF++YF-FX--FXFX-YF+, Y -> -FX+YFYF++YF+FX--FX-Y
+X
+F
+60
+
+F -> F+F--F+F
+F
+F
+60
+
+X -> YF+XF+Y, Y -> XF-YF-X
+X
+F
+60
+
+L -> +RF-LFL-FR+, R -> -LF+RFR+FL-
+L
+F
+90
+
+X -> XFYFX+F+YFXFY-F-XFYFX, Y -> YFXFY-F-XFYFX+F+YFXFY
+X
+F
+90
+
+F -> -F+F-F-F+F+FF-F+F+FF+F-F-FF+FF-FF+F+F-FF-F-F+FF-F-F+F+F-F+
+F
+F
+90
+
+Koch snowflake (F -> F+F--F+F, 60°)
+Hilbert curve (L -> +RF-LFL-FR+, R -> -LF+RFR+FL-, 90)
+Hilbert curve II (X -> XFYFX+F+YFXFY-F-XFYFX, Y -> YFXFY-F-XFYFX+F+YFXFY)
+32-segment curve (F -> -F+F-F-F+F+FF-F+F+FF+F-F-FF+FF-FF+F+F-FF-F-F+FF-F-F+F+F-F+)
+Arrowhead curve (X -> YF+XF+Y, Y -> XF-YF-X, 60°)
+Dragon curve (X -> X+YF+, Y -> -FX-Y)
+Peano-Gosper curve (X -> X+YF++YF-FX--FXFX-YF+, Y -> -FX+YFYF++YF+FX--FX-Y, 60°)
+Peano curve (F -> F+F-F-F-F+F+F+F-F)
+Quadratic Koch island (F -> F-F+F+FFF-F-F+F)
+Square curve (X -> XF-FF+FF-X+FF+X-FF+FF-FX) X+FF+X+FF
+Sierpinski triangle (F -> FF, X -> --FXF++FXF++FXF--, 60°)

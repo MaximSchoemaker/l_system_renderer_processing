@@ -5,3 +5,9 @@ application.linux64
 application.windows32
 application.windows64
 application.macosx
+
+.vscode
+archive
+recording
+out
+export.gif
