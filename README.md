@@ -38,6 +38,9 @@ par("z").x      = turning angle value (1 is full, 0 is 0)
 
 par("w").click  = render balls / render lines
 ```
+
 ![](examples/hilbert_breathe.gif)
 ![](examples/sirpinsky_balls.gif)
 ![](examples/square_breathe.gif)
+
+Check out my Instagram for more: https://www.instagram.com/maximschoemaker/
