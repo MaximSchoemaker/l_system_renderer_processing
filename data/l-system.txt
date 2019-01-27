@@ -1,3 +1,8 @@
+L -> +RF-LFL-FR+, R -> -LF+RFR+FL-
+L
+F
+90
+
 F -> F-F+F+FFF-F-F+F
 F
 F
@@ -17,11 +22,6 @@ X -> YF+XF+Y, Y -> XF-YF-X
 X
 F
 60
-
-L -> +RF-LFL-FR+, R -> -LF+RFR+FL-
-L
-F
-90
 
 X -> XFYFX+F+YFXFY-F-XFYFX, Y -> YFXFY-F-XFYFX+F+YFXFY
 X
